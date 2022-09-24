@@ -13,6 +13,8 @@ public class App {
 
 	public static void main(String[] args) {
 		logger.info("Welcome to Snake and Ladder Game ");
+		Player playObj=new Player();
+    	logger.info("Player's initial position :"+playObj.getPlayerPosition());
 
 	}
 
