@@ -20,3 +20,243 @@ INFO  | 2022-09-24 23:09:52 | [main] snakeandladder.App (App.java:15) - Welcome 
 INFO  | 2022-09-24 23:09:52 | [main] snakeandladder.App (App.java:17) - Player's initial position :0
 INFO  | 2022-09-24 23:09:52 | [main] snakeandladder.Player (Player.java:36) - Ladder
 INFO  | 2022-09-24 23:09:52 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.App (App.java:15) - Welcome to Snake and Ladder Game 
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.App (App.java:17) - Player's initial position :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :4
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :4
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :4
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :8
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :6
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :6
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-6
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-7
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-4
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :5
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-5
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :4
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :4
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :5
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :5
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-5
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :5
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :5
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :6
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :5
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :6
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-6
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :5
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-11
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :6
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-17
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :4
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :6
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :4
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :5
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :6
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-6
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-8
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :5
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :5
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-5
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :4
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :6
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :5
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :5
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :10
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :8
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :10
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :6
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :16
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :5
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :21
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :5
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :4
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :4
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :6
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :6
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :4
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :4
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :4
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :4
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :6
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :4
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :-2
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:44) - No Play
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :0
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :4
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:36) - Ladder
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :4
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:57) - Dice value :1
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:40) - Snake
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:49) - After chacking Condition how many position player have to move :3
+INFO  | 2022-09-24 23:31:48 | [main] snakeandladder.Player (Player.java:64) - Winning position :101
