@@ -2,3 +2,9 @@ INFO  | 2022-09-24 22:17:54 | [main] snakeandladder.App (App.java:15) - Welcome 
 INFO  | 2022-09-24 22:18:10 | [main] snakeandladder.App (App.java:15) - Welcome to Snake and Ladder Game 
 INFO  | 2022-09-24 22:24:34 | [main] snakeandladder.App (App.java:15) - Welcome to Snake and Ladder Game 
 INFO  | 2022-09-24 22:24:34 | [main] snakeandladder.App (App.java:17) - Player's initial position :0
+INFO  | 2022-09-24 22:55:53 | [main] snakeandladder.App (App.java:15) - Welcome to Snake and Ladder Game 
+INFO  | 2022-09-24 22:55:53 | [main] snakeandladder.App (App.java:17) - Player's initial position :0
+INFO  | 2022-09-24 22:55:53 | [main] snakeandladder.Player (Player.java:29) - After rolling die get value on die :1
+INFO  | 2022-09-24 22:56:12 | [main] snakeandladder.App (App.java:15) - Welcome to Snake and Ladder Game 
+INFO  | 2022-09-24 22:56:12 | [main] snakeandladder.App (App.java:17) - Player's initial position :0
+INFO  | 2022-09-24 22:56:12 | [main] snakeandladder.Player (Player.java:29) - After rolling die get value on die :5
