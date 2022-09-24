@@ -6,7 +6,7 @@ import org.apache.logging.log4j.Logger;
 
 public class Player {
 
-	private static final Logger logger = LogManager.getLogger(Player.class);
+	private static final Logger logger = LogManager.getLogger(App.class);
 	private int playerPosition;
 	int dice = 0;
 
@@ -28,17 +28,16 @@ public class Player {
 		return random.nextInt(6) + 1;
 	}
 
-	public int SnakeLadderBoard(int dievalue) {
-	
+	public int SnakeLadderBoard(int dieValue) {
 		int options = random.nextInt(3) + 1;
 		switch (options) {
 		case 1:
 			logger.info("Ladder");
-			dice = dice + dievalue;
+			dice = dice + dieValue;
 			break;
 		case 2:
 			logger.info("Snake");
-			dice = dice - dievalue;
+			dice = dice - dieValue;
 			break;
 		case 3:
 			logger.info("No Play");
@@ -59,10 +58,10 @@ public class Player {
 			playerPosition = playerPosition + dia;
 			if (playerPosition < 0) {
 				playerPosition = 0;
+			} else if (playerPosition > 100) {
+				playerPosition = playerPosition - dia;
 			}
 		}
 		logger.info("Winning position :" + playerPosition);
 	}
-
-	}
-
+}
